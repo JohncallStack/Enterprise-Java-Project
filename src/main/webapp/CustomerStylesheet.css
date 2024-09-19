@@ -1,0 +1,29 @@
+/* CSS page for styling */
+
+.header{
+    font-family: Arial;
+    text-align: center;
+    font-weight: bold;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    background-color: black;
+    font-family: Arial;
+    text-align: center;
+}
+
+tr {
+    width: 800px;
+    background-color: white;
+}
+
+td{
+    width:200px;
+    background-color: white;
+}
+
